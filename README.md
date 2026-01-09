@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Soha 👋
 
 # 💫 About Me:
 🔭 I’m currently working on developing web apps and building machine learning projects<br>🤝 I’m looking for help with improving machine learning model performance<br>⚡ Always curious—especially about new ideas and people’s POVs.
