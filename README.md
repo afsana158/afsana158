@@ -1,9 +1,5 @@
 ## Hi, I'm Soha 👋
 
-# 💫 About Me:
-🔭 I’m currently working on developing web apps and building machine learning projects<br>🤝 I’m looking for help with improving machine learning model performance<br>⚡ Always curious—especially about new ideas and people’s POVs.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afsana_soha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soha-afsana-68b8a122a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afsanasoha38@gmail.com) 
 
